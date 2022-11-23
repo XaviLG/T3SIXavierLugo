@@ -18,7 +18,7 @@ Para visualizar la ruta en la que nos encontramos usamos el siguiente comando.
 pwd
 ~~~
 
-La salida ne mi caso seria:
+La salida en mi caso seria:
 ~~~
 /home
 ~~~
