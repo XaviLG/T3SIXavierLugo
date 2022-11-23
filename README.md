@@ -18,7 +18,10 @@ Para visualizar la ruta en la que nos encontramos usamos el siguiente comando.
 pwd
 ~~~
 
-La salida ne mi caso seria: /home
+La salida ne mi caso seria:
+~~~
+/home
+~~~
 
 3. Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de trabajo actual.
 
@@ -27,8 +30,10 @@ Para obtener una lista de los directorios de trabajo se usa el siguiente comando
 ~~~
 ls
 ~~~
-La salida en mi caso seria: xavier
-
+La salida en mi caso seria: 
+~~~
+xavier
+~~~
 >Nota: el comando ls lista los archivos o directorios que no estan ocultos.
 
 4. Realiza un listado recursivo de tu directorio de inicio.
@@ -57,8 +62,10 @@ Para obtener la fecha y la hora usamos el siguiente comando.
 date 
 ~~~
 
-La salida seria la siguiente: luns 21 nov 2022 12:48:00 CET
-
+La salida seria la siguiente:
+~~~
+luns 21 nov 2022 12:48:00 CET
+~~~
 >Nota: si usas el comando --help o -h puedes ver las opciones para modificar la salida de datos de este comando.
 
 7. Usando un solo comando posiciónate en tu directorio de inicio.
